@@ -1,2 +1,11 @@
 cd klasöre girer ls klasördeki dosyaları listeler pwd bulunduğun dosya konumu gösterir mkdir 
 klasör oluşturur touch ise dosya olur .txt gibi
+hafta 2 demişsiniz ama hafta 2 de sayısal şeyler gördük binary falan komut yoktu hafta 4
+komutlarından yazacağım
+whoami-kim oldugunu gösterir
+ıd-kullanıcının ve gruplarin idsini gössterir
+sudo su- yetkiye geçersin root kullanıcısı olursun
+sudo (komut)- o komutu direkt root yetkisinde kullanırsın
+groups- gruplarını listeler
+sudo su dayken exit yazarsan kullanıcılığa geri dönersin
+
