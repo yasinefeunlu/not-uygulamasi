@@ -1,0 +1,2 @@
+cd klasöre girer ls klasördeki dosyaları listeler pwd bulunduğun dosya konumu gösterir mkdir 
+klasör oluşturur touch ise dosya olur .txt gibi
