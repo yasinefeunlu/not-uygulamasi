@@ -8,4 +8,4 @@ sudo su- yetkiye geçersin root kullanıcısı olursun
 sudo (komut)- o komutu direkt root yetkisinde kullanırsın
 groups- gruplarını listeler
 sudo su dayken exit yazarsan kullanıcılığa geri dönersin
-
+Pull requestin ne oldugunu ögrendim
